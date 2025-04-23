@@ -1,9 +1,7 @@
-#                    
+                    
                       
                       
-                      
-                      
-   Arduino-Project
+  # Arduino-Project
 **"Multitasking ROBOT"** 
 The project successfully delivered a robot car capable of welcoming guests with both movement and voice interaction.
 The robot was designed with both autonomous and manual control features, allowing it to detect and approach guests manually. 
